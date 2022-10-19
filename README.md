@@ -1,7 +1,7 @@
 # Vscode_Clang_LLDB_CMake_Ninja_Clangd_MSVC
 
 ## 基本说明
-本Demo用于搭建一个基于VSCode+Clang+CMake+MSVC工具链的C/C++开发环境，具备智能提示、引用跳转、可视化调试等功能。
+本Demo用于搭建一个基于VSCode+Clang+LLDB+CMake+MSVC工具链的C/C++开发环境，具备智能提示、引用跳转、可视化调试等功能。
 
 实际测试在Windows平台上选用该套工具链更加合适。
 
