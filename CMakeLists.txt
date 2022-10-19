@@ -15,7 +15,6 @@ aux_source_directory(src DIR_SRCS)
 include_directories(includes)
 
 # 打开所有警告
-# 打开详细日志
 add_compile_options(-Wall)
 
 # 指定生成目标
