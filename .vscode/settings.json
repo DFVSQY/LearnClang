@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		".clang-format": "yaml",
+		".clang-tidy": "yaml",
+		".clangd": "yaml",
+		"stdio.h": "c"
+	},
+	"[c]": {
+		"editor.links": false
+	},
+	"cmake.generator": "Ninja",
+	"clangd.arguments": [
+		"--clang-tidy"
+	]
+}
