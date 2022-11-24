@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-nobuiltininc] # Do not search clang’s builtin directory for include files.
